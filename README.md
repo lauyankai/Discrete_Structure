@@ -1,1 +1,1 @@
-# Discrete_Structure
+# Discrete Structure
