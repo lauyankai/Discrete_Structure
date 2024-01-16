@@ -20,3 +20,6 @@ This course strengthened my understanding of discrete structures in computer sci
 ## Chapter 5 : Finite Automata
 <img width="400" src="https://raw.githubusercontent.com/lauyankai/Discrete_Structure/main/images/pic05.png" />
 <div>&nbsp;</div>
+
+## Reflection
+From the Discrete Structure course, I learned about important stuff in computer science, like set theory, proof techniques, relations, functions, recurrence relations, counting methods, graph theory, trees, and finite automata. These are like the building blocks of computer algorithms and decision-making. Each chapter, from Set Theory & Logic to Finite Automata, helped me get a strong grasp of these concepts and how they're vital in computer science.
