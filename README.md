@@ -6,17 +6,17 @@ This course strengthened my understanding of discrete structures in computer sci
 <div>&nbsp;</div>
 
 ## Chapter 2 : Relation & Function
-<img width="400" src="https://raw.githubusercontent.com/lauyankai/Digital_Logic/main/images/pic02.png" />
+<img width="400" src="https://raw.githubusercontent.com/lauyankai/Discrete_Structure/main/images/pic02.png" />
 <div>&nbsp;</div>
 
 ## Chapter 3 : Counting Methods & Probability
-<img width="400" src="https://raw.githubusercontent.com/lauyankai/Digital_Logic/main/images/pic03.webp" />
+<img width="400" src="https://raw.githubusercontent.com/lauyankai/Discrete_Structure/main/images/pic03.webp" />
 <div>&nbsp;</div>
 
 ## Chapter 4 : Graph Theory
-<img width="400" src="https://raw.githubusercontent.com/lauyankai/Digital_Logic/main/images/pic04.png" />
+<img width="400" src="https://raw.githubusercontent.com/lauyankai/Discrete_Structure/main/images/pic04.png" />
 <div>&nbsp;</div>
 
 ## Chapter 5 : Finite Automata
-<img width="400" src="https://raw.githubusercontent.com/lauyankai/Digital_Logic/main/images/pic05.png" />
+<img width="400" src="https://raw.githubusercontent.com/lauyankai/Discrete_Structure/main/images/pic05.png" />
 <div>&nbsp;</div>
